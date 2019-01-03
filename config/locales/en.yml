@@ -35,8 +35,10 @@ en:
   messages:
     welcome: "This is Crypto Wallet. An App that you can register and keep your cryptocoins at date!"
     menu: "Start with one of those options bellow"
+    confirm: "Are you Sure?"
   hello: "Hello world"
   links:
     edit: "Edit"
     show: "Show"
     delete: "Delete"
+    new: "New"

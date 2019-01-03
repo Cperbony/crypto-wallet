@@ -17,9 +17,7 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 Rails.application.config.assets.precompile += %w(
 cable.js
 coins.js
-jquery.js
 mining_types.js
-notify.js
 scaffolds.js
 welcome.js
 )

@@ -1,6 +1,13 @@
+<p>
+  <%= link_to 'Português', root_path(locale: 'pt-BR')%>
+</p>
+<p>
+  <%= link_to 'English', root_path(locale: 'en') %>
+</p>
 <h1 xmlns="http://www.w3.org/1999/html">Seja bem Vindo</h1>
 
 <!--<p>O idioma usado é: <strong<%#= locale %></strong></p>-->
+
 <p>O idioma usado é: <strong<%= t('actual_locale') %></strong></p>
 
 <p><strong>Data:</strong><%= I18n.l(Date.today) %></p>
@@ -10,7 +17,7 @@
 <%= render 'menu' %>
 
 <p>
-  Você esta em ambente de <strong><%= ambiente_rails %></strong>
+  Você esta em ambiente de <strong><%= ambiente_rails %></strong>
 </p>
 
 <p>

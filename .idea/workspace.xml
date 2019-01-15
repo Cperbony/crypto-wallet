@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4cd1680-19eb-4289-ad8c-229f037c9827" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="c4cd1680-19eb-4289-ad8c-229f037c9827" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -280,18 +271,17 @@
       <workItem from="1546520187431" duration="7814000" />
       <workItem from="1546599686654" duration="599000" />
       <workItem from="1546608042986" duration="5334000" />
-      <workItem from="1547558581561" duration="4395000" />
+      <workItem from="1547558581561" duration="5133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39652000" />
+    <option name="totallyTimeSpent" value="40390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="25" width="1280" height="1012" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31037277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31037277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,7 +294,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.3295583" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295583" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49513775" visible="true" weight="0.3272933" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49513775" visible="true" weight="0.3272933" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50486225" side_tool="true" weight="0.32842582" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49918568" weight="0.3295583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
